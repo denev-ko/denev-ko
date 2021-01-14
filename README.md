@@ -1,4 +1,4 @@
-### Hi there 👋
+#### ✨ 주계열성 깃헙
 
 <!--
 **denev-ko/denev-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
